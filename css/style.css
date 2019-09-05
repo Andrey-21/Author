@@ -258,53 +258,55 @@ html {
       font-size: 14px;
       color: #C3AAE0;
       margin-top: 10px; }
-  .contacts .message form .field {
-    width: 270px;
-    line-height: 45px;
-    padding-left: 10px;
-    border: none;
-    outline: none;
-    background-color: #fff;
-    border-radius: 4px;
-    color: #CACACA; }
-  .contacts .message form .field-rg {
-    width: 270px;
-    line-height: 45px;
-    padding-left: 10px;
-    border: none;
-    outline: none;
-    background-color: #fff;
-    border-radius: 4px;
-    color: #CACACA;
-    margin-left: 25px; }
-  .contacts .message form textarea {
-    width: 587px;
-    height: 180px;
-    padding-top: 22px;
-    padding-left: 21px;
-    border: none;
-    outline: none;
-    background-color: #fff;
-    border-radius: 4px;
-    color: #CACACA;
-    resize: none;
-    margin-top: 30px; }
-  .contacts .message form button {
-    padding: 15px 65px;
-    border: none;
-    outline: none;
-    background-color: #00CCCE;
-    border-radius: 4px;
-    text-align: right;
-    color: #fff;
-    font-size: 17px;
-    margin-top: 30px;
-    float: right; }
-    .contacts .message form button:hover {
-      color: #b92c20; }
-  .contacts .message:after {
-    content: "";
-    clear: both;
-    display: block; }
+  .contacts .message {
+    margin-top: 57px; }
+    .contacts .message form .field {
+      width: 270px;
+      line-height: 45px;
+      padding-left: 10px;
+      border: none;
+      outline: none;
+      background-color: #fff;
+      border-radius: 4px;
+      color: #CACACA; }
+    .contacts .message form .field-rg {
+      width: 270px;
+      line-height: 45px;
+      padding-left: 10px;
+      border: none;
+      outline: none;
+      background-color: #fff;
+      border-radius: 4px;
+      color: #CACACA;
+      margin-left: 25px; }
+    .contacts .message form textarea {
+      width: 587px;
+      height: 180px;
+      padding-top: 22px;
+      padding-left: 21px;
+      border: none;
+      outline: none;
+      background-color: #fff;
+      border-radius: 4px;
+      color: #CACACA;
+      resize: none;
+      margin-top: 30px; }
+    .contacts .message form button {
+      padding: 15px 65px;
+      border: none;
+      outline: none;
+      background-color: #00CCCE;
+      border-radius: 4px;
+      text-align: right;
+      color: #fff;
+      font-size: 17px;
+      margin-top: 30px;
+      float: right; }
+      .contacts .message form button:hover {
+        color: #b92c20; }
+    .contacts .message:after {
+      content: "";
+      clear: both;
+      display: block; }
 
 /*# sourceMappingURL=style.css.map */
